@@ -1,0 +1,21 @@
+# Virtual environment
+workspace/
+__pycache__/
+
+# Django files
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+*.py[cod]
+
+# Django migrations
+**/migrations/
+ 
+# VSCode settings
+.vscode/
+
+# Python bytecode
+*.py[cod]
+*.pyo
